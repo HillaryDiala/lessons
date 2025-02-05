@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+#imge {
+    border: 5px solid white;
+    margin-left: 390px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+#img {
+    margin-left:  100px;
+    width:  100%;
+}
+p {
+    text-align: center;
+}
